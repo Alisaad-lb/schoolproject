@@ -8,7 +8,7 @@ Best Information Technology Courses
 - GIT
 
 ## live Demo:
-[link]()
+[link](https://schoolproject-lb.netlify.app)
 ```
 <h1>I'm content </h1>
 ```
