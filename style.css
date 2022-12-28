@@ -1,0 +1,53 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    background-color: rgb(162, 228, 240);
+    text-align: center;
+    border: 3px solid gray;
+
+}
+
+.mainImage{
+   
+    background-color: rgb(94, 93, 95);
+    padding: 30px; 
+    border: 3px solid gray;
+    background-position: center;
+    background-image:url("https://www.tutorialspoint.com/fundamentals_of_science_and_technology/images/information_technology.jpg");
+    background-repeat: inherit;
+    background-attachment: fixed;
+    text-align: center;
+    font-weight: bold;
+    height: 400px;
+    text-shadow: 7px 7px 7px white;
+
+}
+
+.about{
+    margin: 80px;
+}
+.courses button{
+    background-color: rgb(162, 228, 240);
+ 
+ border-color: antiquewhite;
+ 
+ color: antiquewhite;
+}
+.courses button:hover{
+    border-radius: 20px;
+    border-color: antiquewhite;
+  }
+
+.regist{
+    margin: 80px;
+}
+.courseIcons{
+   
+    text-align: center;
+ 
+}
